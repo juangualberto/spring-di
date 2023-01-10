@@ -96,3 +96,11 @@ public class App
     }
 }
 ```
+
+## Cómo ejecutar una aplicación Spring Boot desde CLI
+
+Para invocar la aplicación desde Maven bastará con escribir desde la raíz del proyecto la siguiente orden:
+
+```bash
+mvn spring-boot:run
+```
